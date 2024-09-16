@@ -1,0 +1,6 @@
+This terraform scripts will create EKS Cluster will single node
+
+instance type is t3.medium
+
+
+I am using this file to demo the git push command from my local repo
